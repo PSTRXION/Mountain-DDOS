@@ -1,4 +1,4 @@
-# Mountain-DDOS
+# Mountain-DDOS - TÜRKÇE (SCROLL DOWN FOR ENGLISH)
 ### Bu yazılımı indiren, kuran veya kullanan her birey aşağıdaki şartları okumuş ,anlamış ve kabul etmiş sayılır:
 
 ### Eğitim ve Test Amaçlı Kullanım:
@@ -12,3 +12,20 @@ Yazılımın geliştiricileri, "Mountain DDOS" aracının kötüye kullanımınd
 
 ### Kötüye Kullanım Yasağı:
 Bu araç bir "saldırı silahı" değil, bir "analiz aracıdır". Kamu hizmetlerine, eğitim kurumlarına, sağlık sistemlerine veya herhangi bir şahsi/ticari platforma yönelik saldırı amaçlı kullanımı kesinlikle desteklenmemekte ve önerilmemektedir.
+
+# Mountain-DDOS - ENGLISH (TÜRKÇE İÇİN YUKARI KAYDIRIN)
+### Any individual who downloads, installs, or uses this software is deemed to have read, understood, and accepted the following terms:
+
+### Use for Educational and Testing Purposes:
+Mountain DDOS has been developed solely for the purposes of ethical hacking, cybersecurity research, and testing on networks that you own or for which you have explicit written permission.
+
+### Legal Liability:
+The use of this tool against unauthorized systems (denial-of-service attacks) constitutes a cybercrime in many countries, punishable by severe prison sentences and monetary damages. The user is obligated to comply with all applicable local and international laws regarding the use of this tool.
+
+### Disclaimer:
+The software developers cannot be held liable in any way for the misuse of the “Mountain DDOS” tool, resulting data loss, hardware damage, or any legal proceedings that may arise. All liability rests entirely with the end-user.
+
+### Prohibition of Misuse:
+This tool is not an “attack weapon” but an “analysis tool.” Its use for the purpose of attacking public services, educational institutions, healthcare systems, or any personal/commercial platform is strictly prohibited and not recommended.
+
+Translated with DeepL.com (free version)
