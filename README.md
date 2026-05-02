@@ -27,5 +27,3 @@ The software developers cannot be held liable in any way for the misuse of the �
 
 ### Prohibition of Misuse:
 This tool is not an “attack weapon” but an “analysis tool.” Its use for the purpose of attacking public services, educational institutions, healthcare systems, or any personal/commercial platform is strictly prohibited and not recommended.
-
-Translated with DeepL.com (free version)
